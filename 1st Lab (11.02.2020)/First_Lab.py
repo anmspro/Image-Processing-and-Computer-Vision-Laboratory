@@ -28,4 +28,4 @@ cv2.imshow('Output3', img3)
 #cv2.imwrite('Output3.jpg', img3)
 
 cv2.waitKey(0)       
-cv2.destroyAllWindows
+cv2.destroyAllWindows()
